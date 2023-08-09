@@ -1,3 +1,4 @@
+"use client"
 import Head from "next/head"
 export default function Home() {
   return (
@@ -15,6 +16,11 @@ export default function Home() {
           </div>
           <p className="italic w-4/12">„Óla, ich heiße <span className="uppercase">Henri</span>, ich bin 13 Jahre alt, lebe in Deutschland und bin in dem Bereich des Webdevelopment zugehörig. Ich programmiere Website, seit dem ich 11 Jahre alt war
           und meinen ersten Laptop bekommen habe. Ich liebe vor allem am Programmieren das immer neue lernen von Bereichen und Technicken.“<p className="not-italic"> - Henri</p></p>
+        </div>
+        <div className="">
+          <div>
+            
+          </div>
         </div>
       </div>
     )
