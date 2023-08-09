@@ -2,7 +2,7 @@
 import Head from "next/head"
 export default function Home() {
   return (
-      <div className="ont-mono">
+      <div className="">
         <Head>
           <title>henri - a web dev</title>
         </Head>
